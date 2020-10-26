@@ -40,8 +40,8 @@ And to get covid-19 statistics  across world just click the world icon present i
 	Icons References
 [Icons](https://www.w3schools.com/icons/default.asp) we can select the required icon to use in our website.
 		
-	pip install datetime
-[datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
+	Google fonts
+[Fonts](https://fonts.google.com/) we can use select the font style for our website and embedd the style in our website to use them. 
 
 ## Block Diagram :
 
