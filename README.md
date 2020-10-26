@@ -9,7 +9,7 @@
  * This is a Frontend Web ChatBot which helps in finding covid-19 statistics across India and in world.
  * And responds user with the data present in API you can know statistics like number of people infected,number of people recovered...
 
-[![Requests Version](https://img.shields.io/badge/requests-2.24.0-orange)](https://pypi.org/project/requests/)
+[![xml http request image](https://github.com/abhishek-548/webbot/blob/main/htttp.PNG?raw=true)](https://www.w3schools.com/xml/xml_http.asp)
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
 [![Random Version](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/)
 [![DateTime Version](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/)
