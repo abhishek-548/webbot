@@ -15,8 +15,8 @@
 
 ## What is a web ChatBot?
  * A chatbot for website is a chatbot that lives on your website,that is programmed to do certain tasks.
- * Bots are automated,It interacts with your website's visitors, most commonly via a text interface.
- * Typically they do repetitive tasks, and they can do them much faster than human users could.
+ * Web Chatbots are automated,It interacts with your website's visitors, most commonly via a text interface.
+ * Typically they do repetitive tasks,The purpose of a web chatbot on your website may vary,here providing covid-19 statistics.
 
 ## Description 
 
