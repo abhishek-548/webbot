@@ -31,8 +31,8 @@ And to get covid-19 statistics  across world just click the world icon present i
 
 ## Installation & References
 	
-	pip install requests
-[requests](https://pypi.org/project/requests/) allows us to send HTTP requests easily.
+	new XMLHttpRequest()
+[XMLHttpRequest](https://www.w3schools.com/xml/xml_http.asp) allows us to send HTTP requests easily.
 		
 	pip install pyttsx3
 [pyttsx3](https://pypi.org/project/pyttsx3/) converts Text to speech.
