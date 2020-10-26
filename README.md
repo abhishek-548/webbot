@@ -20,15 +20,14 @@
 
 ## Description 
 
-At First this chatbot welcomes the user randomly and then asks for the users name . 
+At First the user can see a dashboard page here you can find links to web pages and chatbots. 
 
-After than it outputs the Greeting through Voice message .And then prints the remaining message .
+After clicking the covid link it takes you to the page where you can find detailed info of corona virus and there you can find the link to chatbot.
 
-Then the menu will be printed in the console for the user to choose any given option.It recursivley asks for the User option unitll the user ends the chatbot.
+Or you can click on covid-bot to go to chatbot directly here you can talk to chatbot through text interface.
 	
-Through this chatbot users can easily search the programs based on their interested topics and can even solve them by clicking the Link of the problem below the Name of the problem which will direct to the [Codeforces](codeforces.com) website where you can Code and execute  your Solution.
-
-This ChatBot's Intention is to bridge the gap of finding problems based on the topics with ease through a console.
+Once the chatbot is opened you can get covid-19 statistics across India by typing ex: StateName(Upper Camel Case),3(Here 3 refers to Total no.of people who are recovered).
+And to get covid-19 statistics  across world just click the world icon present in the left side of your page after clicking to get covid-19 statistics type: Country(Upper Camel Case),1(Here 1 refers to total no.of people who are infected in the country)
 
 ## Installation & References
 	
