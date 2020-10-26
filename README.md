@@ -47,6 +47,10 @@ And to get covid-19 statistics  across world just click the world icon present i
 
 ![Output1](https://github.com/abhishek-548/project/blob/main/output1.PNG?raw=true)
 
+![Output2](https://raw.githubusercontent.com/abhishek-548/project/main/output2.PNG)
+
+![Output3](https://raw.githubusercontent.com/abhishek-548/project/main/output3.PNG)
+
 ## Youtube Link :
 
 [![Youtube Link](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)](https://youtu.be/YOr-dkpKeMI)
