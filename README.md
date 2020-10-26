@@ -34,11 +34,11 @@ And to get covid-19 statistics  across world just click the world icon present i
 	new XMLHttpRequest()
 [XMLHttpRequest](https://www.w3schools.com/xml/xml_http.asp) allows us to send HTTP requests easily.
 		
-	pip install pyttsx3
-[pyttsx3](https://pypi.org/project/pyttsx3/) converts Text to speech.
+	Bootstrap
+[bootstrap](https://getbootstrap.com/) is a web framework which has some predefined styles and grid system,we can use them if needed.
 		
-	pip install random
-[random](https://pypi.org/project/random/) selects a random object in a given range
+	Icons References
+[Icons](https://www.w3schools.com/icons/default.asp) we can select the required icon to use in our website.
 		
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
