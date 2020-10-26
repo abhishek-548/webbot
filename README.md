@@ -6,16 +6,16 @@
  * Gera Abhishek ( 19pa1a0548 )
 
 ## Objective of our Bot
- * This is a Frontend Web ChatBot which helps in finding covid-19 statistics across India and in world.
+ * This is a Web ChatBot for covid website which helps in finding covid-19 statistics across India and in world.
  * And responds user with the data present in API you can know statistics like number of people infected,number of people recovered...
 
 [![HTML image](https://github.com/abhishek-548/webbot/blob/main/html%20img.PNG?raw=true)](https://www.w3schools.com/html/)
 [![CSS image](https://raw.githubusercontent.com/abhishek-548/webbot/main/css%20img.PNG)](https://www.w3schools.com/css/)
 [![Js image](https://raw.githubusercontent.com/abhishek-548/webbot/main/js%20img.PNG)](https://www.w3schools.com/js/)
 
-## What is a Bot?
- * A bot is a software application that is programmed to do certain tasks.
- * Bots are automated, which means they run according to their instructions without a human user needing to start them up.
+## What is a web ChatBot?
+ * A chatbot for website is a chatbot that lives on your website,that is programmed to do certain tasks.
+ * Bots are automated,It interacts with your website's visitors, most commonly via a text interface.
  * Typically they do repetitive tasks, and they can do them much faster than human users could.
 
 ## Description 
