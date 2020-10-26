@@ -9,10 +9,9 @@
  * This is a Frontend Web ChatBot which helps in finding covid-19 statistics across India and in world.
  * And responds user with the data present in API you can know statistics like number of people infected,number of people recovered...
 
-[![xml http request image](https://github.com/abhishek-548/webbot/blob/main/htttp.PNG?raw=true)](https://www.w3schools.com/xml/xml_http.asp)
-[![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
-[![Random Version](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/)
-[![DateTime Version](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/)
+[![HTML image](https://github.com/abhishek-548/webbot/blob/main/html%20img.PNG?raw=true)](https://www.w3schools.com/html/)
+[![CSS image](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/)
+[![Js image](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/)
 
 ## What is a Bot?
  * A bot is a software application that is programmed to do certain tasks.
